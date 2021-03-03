@@ -1,24 +1,24 @@
 branding:
-  name: About Library 
-  org: The New York Times
-  orgDomain: nytimes.com
-  prettyName: About Library
+  name: Sruthika's Library 
+  org: 
+  orgDomain: 
+  prettyName: Sruthika's Library
   favicon: /assets/images/library.ico
 
 landing:
-  tagline: A simple documentation site, built from content in Google Docs.
+  tagline: A place for my thoughts, built from content in Google Docs.
   viewAll: View All Docs
   quickLink: <a href="/get-started">Get started</a>.
 
 footer:
-  helpText: For help contributing or to report a problem, consult <a href="https://github.com/nytimes/library">the Github Page</a>.
-  defaultEmail: test.user@nytimes.com
+  helpText: For help contributing or to report a problem, consult <a href="https://github.com/sbaviriseaty/library">the Github Page</a>.
+  defaultEmail: sbaviriseaty@gmail.com
 
 search:
-  placeholder: What do you want to know about Library?
+  placeholder: What do you want to know about my Library?
   results:
     none:
-      suggestion: To request a new page, submit <a href="https://github.com/nytimes/library">a PR on Github</a>.
+      suggestion: To request a new page, submit <a href="https://github.com/sbaviriseaty/library">a PR on Github</a>.
 
 # errors
 error:

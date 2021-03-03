@@ -6,14 +6,14 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nytimes/library-customization-example.git"
+    "url": "git+https://github.com/sbaviriseaty/library-customization-example.git"
   },
   "author": "The New York Times",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nytimes/library-customization-example/issues"
+    "url": "https://github.com/sbaviriseaty/library-customization-example/issues"
   },
-  "homepage": "https://github.com/nytimes/library-customization-example#readme",
+  "homepage": "https://github.com/sbaviriseaty/library-customization-example#readme",
   "dependencies": {
     "cache-manager-ioredis": "^1.0.1",
     "express-sslify": "^1.2.0"
