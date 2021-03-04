@@ -8,7 +8,7 @@ branding:
 landing:
   tagline: A place for my thoughts, built from content in Google Docs.
   viewAll: View All Docs
-  quickLink: <a href="/get-started">Get started</a>.
+  quickLink: <a href="/about-me">About me.</a>.
 
 footer:
   helpText: For help contributing or to report a problem, consult <a href="https://github.com/sbaviriseaty/library">the Github Page</a>.
